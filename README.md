@@ -1,6 +1,6 @@
 # DeepSyslog
 
-[Framework of logdeep](frame.png)
+[Framework of logdeep](framework(1).png)
 ## Requirement
 
 - python>=3.6
