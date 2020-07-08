@@ -33,6 +33,7 @@ load the trained word embedding and choose SIF case of fse to generate sentence 
     model = SIF(ft)
     model.train(IndexedList(sentences))
    
+ ## model
 train and test model in s_p_all.py
 
 ## results
