@@ -7,7 +7,7 @@ framework
 - python>=3.6
 - pytorch >= 1.1.0
 
-## logpaser
+## logpaser  
 [logpaser toolkit](https://github.com/logpai/logparser)  
 we choose Spell to parse HDFS datasets and Drain to parse BGL datasets.  
 We save parameters for each log.  
@@ -24,8 +24,8 @@ retrain the model using training data.
     ft.save('w2v FastText +wiki_en d=300.bin')  
 
 ## sentence embedding  
-sif by fse.py
-https://github.com/oborchers/Fast_Sentence_Embeddings
+sif by fse.py  
+(https://github.com/oborchers/Fast_Sentence_Embeddings)
 implement by fse
 load the trained word embedding and choose SIF case of fse to generate sentence embedding
 
