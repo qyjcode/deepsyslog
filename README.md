@@ -1,6 +1,6 @@
 # DeepSyslog
 
-[Framework](framework.png)
+![Framework](framework.png)
 ## Requirement
 
 - python>=3.6
