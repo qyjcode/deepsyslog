@@ -1,6 +1,6 @@
 # DeepSyslog
 
-[Framework](framework (1).pdf)
+[Framework](framework.png)
 ## Requirement
 
 - python>=3.6
