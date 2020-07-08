@@ -4,7 +4,7 @@ implement of DeepSyslog
 framework
 ## Requirement
 
-- python>=3.6
+- python 3.7
 - pytorch >= 1.1.0
 
 ## logpaser  
