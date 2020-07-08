@@ -1,6 +1,6 @@
 # DeepSyslog
 
-[Framework of logdeep](framework(1).png)
+[Framework](framework (1).pdf)
 ## Requirement
 
 - python>=3.6
