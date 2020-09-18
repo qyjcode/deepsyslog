@@ -6,10 +6,6 @@ import pickle
 import gensim.downloader as api
 
 
-def save(filename, m):
-    with open(filename, 'wb') as f:
-        pickle.dump(m, f)
-
 def fasttext():
     ft = gensim.models.FastText.load_fasttext_format('../wiki.en.bin')
     data = []
