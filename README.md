@@ -8,7 +8,6 @@ framework
 - pytorch >= 1.1.0
 ## data
 you can download raw data from (https://zenodo.org/record/3227177)
-we
 
 ## log pasing and preprocess  
 [logpaser toolkit](https://github.com/logpai/logparser)  
@@ -19,13 +18,13 @@ also save parameters for each log.
 
 
 ## word embedding  
-w2v model.py  
+embedding/w2v model.py  
 download pre-trained fastText word vectors from (https://fasttext.cc/docs/en/crawl-vectors.html)  
 load pre-trained model and convert it to gensim fastText model then continue to train the model using training data.  
 
 
 ## sentence embedding  
-sif by fse.py  
+embedding/sif by fse.py  
 (https://github.com/oborchers/Fast_Sentence_Embeddings)
 implement by fse
 load the trained word embedding and choose SIF case of fse to generate sentence embedding
