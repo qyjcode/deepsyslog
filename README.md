@@ -6,18 +6,22 @@ framework
 
 - python 3.7
 - pytorch >= 1.1.0
+## data
+you can download raw data from (https://zenodo.org/record/3227177)
+we
 
-## logpaser  
+## log pasing and preprocess  
 [logpaser toolkit](https://github.com/logpai/logparser)  
 we choose Spell to parse HDFS datasets and Drain to parse BGL datasets.  
-We save parameters for each log.  
+The raw logs are seperated to text data and parameters. Then split these composite words into separate parts and remove the stop words. 
+place some non-numeric parameters with the label like "ip address","exception","port".  
+also save parameters for each log.  
 
 
 ## word embedding  
 w2v model.py  
 download pre-trained fastText word vectors from (https://fasttext.cc/docs/en/crawl-vectors.html)  
-load pre-trained model and convert it to gensim fastText model.  
-retrain the model using training data.  
+load pre-trained model and convert it to gensim fastText model then continue to train the model using training data.  
 
 
 ## sentence embedding  
