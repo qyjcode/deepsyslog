@@ -36,6 +36,6 @@ train and test model in s_p_all.py
 
 | **Dataset** | **Precision** | **Recall** | **F1** |
 | :----:|:----:|:----:|:----:|
-|HDFS|0.96 | 0.99 | 0.977 |
+|HDFS|0.97 | 0.99 | 0.98 |
 |BGL |0.98 |0.97 |0.975 |
 
