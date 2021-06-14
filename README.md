@@ -1,5 +1,5 @@
-# note
-Due to the data is too large, test code and data is on the google drive (https://drive.google.com/drive/folders/1jI5SQdT7wZE64E9baQhCMWzTsudfIMoc?usp=sharing)  
+# Note
+Due to the data is too large, test code and data is on the google drive. Following is the link (https://drive.google.com/drive/folders/1jI5SQdT7wZE64E9baQhCMWzTsudfIMoc?usp=sharing)  
 # DeepSyslog
 implement of DeepSyslog  
 ![Framework](framework.png)
@@ -8,7 +8,7 @@ framework
 
 - python 3.7
 - pytorch >= 1.1.0
-## data
+## raw data
 you can download raw data from (https://zenodo.org/record/3227177)
 
 ## log pasing and preprocess  
