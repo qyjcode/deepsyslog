@@ -1,5 +1,7 @@
 # Note
-An early version of test code and data is on the google drive. Following is the link (https://drive.google.com/drive/folders/1jI5SQdT7wZE64E9baQhCMWzTsudfIMoc?usp=sharing)  
+Due to the data is too large, we put the parsed data on the google drive. Following is the link (https://drive.google.com/drive/folders/1jI5SQdT7wZE64E9baQhCMWzTsudfIMoc?usp=sharing)  
+Parsed data is in the /pased_data. An early version of test code and data is also available.
+
 # DeepSyslog
 implement of DeepSyslog  
 ![Framework](framework.png)
