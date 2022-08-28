@@ -1,5 +1,5 @@
 # Note
-Due to the data is too large, test code and data is on the google drive. Following is the link (https://drive.google.com/drive/folders/1jI5SQdT7wZE64E9baQhCMWzTsudfIMoc?usp=sharing)  
+An early version of test code and data is on the google drive. Following is the link (https://drive.google.com/drive/folders/1jI5SQdT7wZE64E9baQhCMWzTsudfIMoc?usp=sharing)  
 # DeepSyslog
 implement of DeepSyslog  
 ![Framework](framework.png)
